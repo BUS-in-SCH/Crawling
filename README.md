@@ -2,7 +2,7 @@
 
 
 ### crawling함수
-[서울메트로 사이버 메트로](http://www.seoulmetro.co.kr/kr/cyberStation.do?menuIdx=538) 지하철 시간표부분 크롤링  
+[서울메트로 사이버스테이션](http://www.seoulmetro.co.kr/kr/cyberStation.do?menuIdx=538) 지하철 시간표부분 크롤링  
 crawling함수에 역코드를 입력해주면 결과값이 리턴된다.(ex. crawling(1408))
 
 ### 제공되는 정보
